@@ -9,3 +9,7 @@ Fictional detective living in London around 1880-1900. Known by stories like The
 * Dr. Watson
 * Sir Arthur Conan Doyle
 
+Qoute:
+
+> "It's quite exciting," said Sherlock Holmes, with a yawn.
+
