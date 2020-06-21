@@ -2,7 +2,10 @@
 
 Fictional detective living in London around 1880-1900. Known by stories like The Hound Of Baskerville. Shares some rooms with his friend Dr. Watson.
 
-## address
+## some facts
 
-221b Baker St, Marylebone, London NW1 6XE, United Kingdom
+* 221b Baker St, Marylebone, London NW1 6XE, United Kingdom
+* The Hound Of Baskerville
+* Dr. Watson
+* Sir Arthur Conan Doyle
 
