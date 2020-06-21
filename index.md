@@ -12,4 +12,5 @@ Fictional detective living in London around 1880-1900. Known by stories like The
 Qoute:
 
 > "It's quite exciting," said Sherlock Holmes, with a yawn.
-> No violence, gentlemen -- no violence, I beg of you!  Consider the furniture!
+
+<img src="https://en.wikipedia.org/wiki/File:Sherlock_Holmes_Portrait_Paget.jpg"/> 
