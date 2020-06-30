@@ -9,3 +9,8 @@ Fictional detective living in London around 1880-1900. Known by stories like The
 * Dr. Watson
 * Sir Arthur Conan Doyle
 
+Qoute:
+
+> No violence, gentlemen -- no violence, I beg of you!  Consider the furniture!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Sherlock_Holmes_Portrait_Paget.jpg"/> 
